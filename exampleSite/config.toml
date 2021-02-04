@@ -9,10 +9,6 @@ title = "Northendlab | Blog Template"
 URL = "tools"
 name = "tools"
 weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [[menu.main]]
 URL = "tools"
 name = "tools"
