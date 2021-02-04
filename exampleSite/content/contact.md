@@ -6,6 +6,7 @@ layout: contact
 date: 2021-02-04T03:00:00+00:00
 author: Jorge Tapia
 type: contacto
+draft: true
 
 ---
-Estamos disponibles para que nos contactes
+Estamos disponibles para que nos contactes.
