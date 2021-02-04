@@ -1,8 +1,7 @@
 ---
-title: Contact Us
+title: Contactanos
 description: this is meta description
 image: images/contact.svg
-draft: true
 
 ---
 contáctanos para más información
